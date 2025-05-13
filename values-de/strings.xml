@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="welcome_header"></string>
+  <string name="lang_af" tools:keep="@string/lang_af">Afrikaans</string>
+  <string name="lang_sq" tools:keep="@string/lang_sq">Albanian</string>
+</resources>
